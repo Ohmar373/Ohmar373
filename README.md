@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+<img src="https://tenor.com/view/among-us-amogus-sus-fnf-friday-night-funkin-gif-13766656330817600081" width = "120" align = "right" />
 <!--
 **Ohmar373/Ohmar373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
