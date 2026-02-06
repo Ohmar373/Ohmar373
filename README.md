@@ -2,6 +2,8 @@
 
 
 <img src="https://tenor.com/view/among-us-amogus-sus-fnf-friday-night-funkin-gif-13766656330817600081.gif" width = "120" align = "right" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohmar363)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ohmar373/Ohmar373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
